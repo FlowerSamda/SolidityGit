@@ -1,4 +1,4 @@
-pragma solidity ^0.6.23;
+pragma solidity 0.6.12;
 
 
 interface IERC20 {
